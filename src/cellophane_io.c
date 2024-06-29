@@ -31,7 +31,7 @@
 #include <curl/easy.h>
 #include <string.h>
 #include <unistd.h>
-#include <json/json.h>
+#include <json-c/json.h>
 
 #include "cellophane_io.h"
 #include "md5.h"
